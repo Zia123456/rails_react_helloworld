@@ -91,6 +91,10 @@ Install the project dependencies with:
 To run the project, execute the following command:
 
 ```
+  rails db:seed
+```
+
+```
   rails s
 ```
 
